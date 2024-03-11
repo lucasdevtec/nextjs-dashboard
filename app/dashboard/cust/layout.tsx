@@ -6,10 +6,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html>
-      <body>
-        <StyledComponentsRegistry>{children}</StyledComponentsRegistry>
-      </body>
-    </html>
+    <>
+      <StyledComponentsRegistry>{children}</StyledComponentsRegistry>
+    </>
   );
 }
