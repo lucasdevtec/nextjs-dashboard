@@ -7,7 +7,7 @@ interface Breadcrumb {
   href: string;
   active?: boolean;
 }
-
+//Nav / da pagina
 export default function Breadcrumbs({
   breadcrumbs,
 }: {
@@ -26,7 +26,7 @@ export default function Breadcrumbs({
           >
             <Link href={breadcrumb.href}>{breadcrumb.label}</Link>
             {index < breadcrumbs.length - 1 ? (
-              <span className="mx-3 inline-block">/</span>
+              <span className="mx-3 inline-block">⇝</span> // entre as paginas
             ) : null}
           </li>
         ))}
