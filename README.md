@@ -1,4 +1,4 @@
-# Nextjs-Dashboard
+# nextjs-dashboard
 
 This project was created to familiarize me with NextJS. Thus learning the basis of the framework with practical examples.
 
@@ -34,6 +34,20 @@ Develop my experience with NextJS, improving my knowledge and learning new featu
 - [NextJS](https://nextjs.org/) - Next.js is an open-source React front-end development web framework created by Vercel that enables functionality such as server-side rendering and static website generation for React-based web applications.
 - [Postgres](https://www.postgresql.org/) PostgreSQL is an object-relational database management system, developed as an open source project.
 - [TypeScript](https://www.typescriptlang.org/) TypeScript is an open source programming language developed by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
+
+### Guide to Test
+
+- Acesse [project on vercel](https://nextjs-dashboard-git-develop-lucasdevtec.vercel.app/?vercelToolbarCode=QgI4G0kJxwZkJtQ).
+
+- Log in with:
+
+```js
+Email = user@nextmail.com
+Password = 123456
+```
+
+- Test however you want
+- If you want to test on your computer, the environment variables used are in [env.exemple](https://github.com/lucasdevtec/nextjs-dashboard/blob/main/.env.example).
 
 ## Author
 
