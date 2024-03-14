@@ -51,4 +51,4 @@ Password = 123456
 
 ## Author
 
-- LinkedIn - [Lucas-Gabriel](https://www.linkedin.com/in/yami-kagayaki/)
+- LinkedIn - [Lucas Oliveira](https://www.linkedin.com/in/lucasdevtec/)
