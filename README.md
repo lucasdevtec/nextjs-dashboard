@@ -20,7 +20,7 @@ Develop my experience with NextJS, improving my knowledge and learning new featu
 
 ### Screenshot
 
-![](./public/screenshot.gif)
+![](./public/screnshot.png)
 
 ## My process
 
